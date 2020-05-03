@@ -12,7 +12,7 @@ All Tutorials plus additional snippets and shorter posts can be found on medium 
 
 ### About SkiteTech
 
-We exist to build innovative software experiences for smart clients, and we love how easy Flutter makes that. Don't hesitate to [stop by our site](https://gskinner.com) to learn more about what we do. We'd love to hear from you!
+We exist to build innovative software experiences for smart clients, and we love how easy Flutter makes that. Don't hesitate to [stop by our site](https://) to learn more about what we do. We'd love to hear from you!
 
 <br/>
 
