@@ -5,9 +5,9 @@
 
 ### The Flutter Tutorial Projects
 
-The repo contains the source code for all the medium post, written and video tutorials SkiteTech.
+The repo contains the source code for all the medium post, written and video tutorials of SkiteTech.
 
-All Tutorials plus additional snippets and shorter posts can be found on medium post page of SkiteTech. Each tutorial's code can be downloaded separately by navigating to your project choice and click on clone or download.
+All Tutorials plus additional snippets and shorter posts can be found on medium post page of SkiteTech. Each tutorial's code can be downloaded separately by navigating to your project of choice and click on clone or download.
 <br/>
 
 ### About SkiteTech
