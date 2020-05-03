@@ -1,6 +1,6 @@
 
 <br />
-<p align="center"><a href="https://flutter.gskinner.com"><img src="https://scontent-lhr8-1.xx.fbcdn.net/v/t1.0-0/c6.0.607.607a/s526x395/92000684_104443541220762_1903920540884664320_n.jpg?_nc_cat=104&_nc_sid=85a577&_nc_ohc=utCtc5w0LygAX8qi_o4&_nc_ht=scontent-lhr8-1.xx&oh=22835d3b13f1409474a8a366ccd04618&oe=5ED280DD" width="440px"/></a></p>
+<p align="center"><a href="https://"><img src="https://scontent-lhr8-1.xx.fbcdn.net/v/t1.0-0/c6.0.607.607a/s526x395/92000684_104443541220762_1903920540884664320_n.jpg?_nc_cat=104&_nc_sid=85a577&_nc_ohc=utCtc5w0LygAX8qi_o4&_nc_ht=scontent-lhr8-1.xx&oh=22835d3b13f1409474a8a366ccd04618&oe=5ED280DD" width="440px"/></a></p>
 <br />
 
 ### The Flutter Tutorial Projects
@@ -17,6 +17,9 @@ We exist to build innovative software experiences for smart clients, and we love
 <br/>
 
 ### Flutter Tutorial Projects
+<br>
+Please clone and star this repo to stay up to date on changes.
+<br/>
 
 ### License
 
