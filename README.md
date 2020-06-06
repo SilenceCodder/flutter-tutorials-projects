@@ -22,9 +22,9 @@ Please clone and star this repo to stay up to date on changes.
 <br/>
 
 ### Tutorials
-
-**001 - Pull to Refresh with beautify** \[ [Video](https://) \] \[ [Written](https://www./) \] - This tutorial covers the use of pull to refresh plugin in flutter to loading data from the API and beautifying the widget.
-
+<br>
+**001 - Pull to Refresh with beautify** \[ [Video](https://) \] \[ [Written](https://www./) \] - This tutorial covers the use of pull to refresh plugin in flutter to load data from the server and beautify the widget.
+<br/>
 
 ### License
 
