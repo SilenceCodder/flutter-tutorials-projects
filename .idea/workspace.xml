@@ -2,217 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26796c0a-ed72-4936-912b-328944d8d281" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/flutter-tutorials-projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/flutter-tutorials-projects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/.metadata" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/.metadata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/android/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/android/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/android/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/android/app/src/main/kotlin/com/skitetech/pull_to_refresh/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/android/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/android/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/android/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/android/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/android/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/android/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/ios/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/ios/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/ios/Flutter/Debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/ios/Flutter/Debug.xcconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/ios/Flutter/Release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/ios/Flutter/Release.xcconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/ios/Runner/AppDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/ios/Runner/AppDelegate.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/ios/Runner/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/lib/main.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/pubspec.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/pubspec.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/test/widget_test.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/web/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/web/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/web/icons/Icon-192.png" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/web/icons/Icon-192.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/web/icons/Icon-512.png" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/web/icons/Icon-512.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/web/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/001 pull_to_refresh/web/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/.metadata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/android/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/android/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/android/app/src/main/kotlin/com/skitetech/modern_ui/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/android/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/android/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/android/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/android/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/ios/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/ios/Flutter/Debug.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/ios/Flutter/Release.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/ios/Runner/AppDelegate.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/ios/Runner/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/lib/main.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/pubspec.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/pubspec.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/test/widget_test.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/web/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/web/icons/Icon-192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/web/icons/Icon-512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/web/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/002 modern_ui/web/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/.metadata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/android/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/android/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/android/app/src/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/android/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/android/app/src/main/kotlin/com/skitetech/simple_mvvm/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/android/app/src/main/kotlin/com/skitetech/simple_mvvm/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/android/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/android/app/src/profile/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/android/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/android/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/android/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/ios/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/ios/Flutter/Debug.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/ios/Flutter/Release.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/ios/Runner/AppDelegate.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/ios/Runner/Info.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/lib/screen/MyHomePage.dart" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/lib/screen/MyHomePage.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/lib/style/AppColor.dart" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/lib/style/AppColor.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/lib/style/AppFontSize.dart" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/lib/style/AppFontSize.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/lib/style/AppText.dart" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/lib/style/AppText.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/lib/style/AppTextStyle.dart" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/lib/style/AppTextStyle.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/lib/viewmodel/MyHomePageViewModel.dart" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/lib/viewmodel/MyHomePageViewModel.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/lib/viewmodel/baseModel.dart" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/lib/viewmodel/baseModel.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/test/widget_test.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/web/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/web/icons/Icon-192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/web/icons/Icon-512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/web/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/003 simple_mvvm/web/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/web/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/001 simple_mvvm/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/projects/001 simple_mvvm/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -227,7 +17,17 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/projects/001 simple_mvvm/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -236,6 +36,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/projects/001 simple_mvvm/README.md" />
       </list>
     </option>
   </component>
@@ -259,7 +60,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="flutter-tutorials-projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flutter-tutorials-projects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flutter-tutorials-projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flutter-tutorials-projects" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flutter-tutorials-projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flutter-tutorials-projects" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="001 simple_mvvm" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
@@ -371,11 +193,19 @@
       <option name="project" value="LOCAL" />
       <updated>1591470065298</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="simple mvvm pushed">
+      <created>1591542693855</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1591542693855</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
       <window_info id="Designer" order="1" />
@@ -445,6 +275,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/001 simple_mvvm/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
         </state>
       </provider>
     </entry>
