@@ -9,6 +9,9 @@
       <excludeFolder url="file://$MODULE_DIR$/projects/002 modern_ui/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/projects/002 modern_ui/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/projects/002 modern_ui/build" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/003 simple_mvvm/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/003 simple_mvvm/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/003 simple_mvvm/build" />
       <excludeFolder url="file://$MODULE_DIR$/projects/simple_mvvm/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/projects/simple_mvvm/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/projects/simple_mvvm/build" />

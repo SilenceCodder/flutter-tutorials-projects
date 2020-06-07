@@ -23,7 +23,7 @@ Please clone and star this repo to stay up to date on changes.
 
 ### Tutorials
 <br>
-**001 - Pull to Refresh with beautify** \[ [Video](https://) \] \[ [Written](https://www./) \] - This tutorial covers the use of pull to refresh plugin in flutter to load data from the server and beautify the widget.
+**001 - Simple MVVM in flutter** \[ [Video](https://https://youtu.be/s_4rg6q8FwE) \] \[ [Written](https://www.https://medium.com/@horlaz229/simple-mvvm-in-flutter-with-provider-architecture-16b021409209) \] - This tutorial covers the use of MVVM in flutter with provider_architecture.
 <br/>
 
 ### License
